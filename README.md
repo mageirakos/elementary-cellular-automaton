@@ -15,3 +15,5 @@ The simplest one is the elementary cellular automaton.
 - all 255 rules can are simulated correctly  
 - made sure to not have any errors occur through the use of python exceptions  
 - all 4 categories of cellular automata can be seen in the different rules of my implementation   
+
+![alt text](img/option menu.png)
