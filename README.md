@@ -17,7 +17,7 @@ The simplest one is the elementary cellular automaton.
 ![gui example](https://github.com/mageirakos/elementary-cellular-automaton/blob/master/img/gui-example.png?raw=true)
 
 - used webbrowser to learn the library and implement a couple of links to interesting sources  
-- all 255 rules can are simulated correctly  
+- all 255 rules simulated correctly  
 - made sure to not have any errors occur through the use of python exceptions  
 - all 4 classes of cellular automata can be seen in the different rules of my implementation   
 
