@@ -1,7 +1,7 @@
 # elementary-cellular-automaton
 Used Tkinter and webbrowser libraries with Python in order to implement the simle elementary cellular automaton explained in the following sources:   
-http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
-https://natureofcode.com/book/chapter-7-cellular-automata/
+http://mathworld.wolfram.com/ElementaryCellularAutomaton.html    
+https://natureofcode.com/book/chapter-7-cellular-automata/   
 
 ## About
 Cellular automata are models used to simulate and study social self organization.  
